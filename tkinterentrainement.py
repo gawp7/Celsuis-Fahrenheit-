@@ -15,5 +15,3 @@ menu1 = Menu(barre, tearoff=0)
 
 #Afficher la page :
 fenetre.mainloop()
-
-print("test github")
