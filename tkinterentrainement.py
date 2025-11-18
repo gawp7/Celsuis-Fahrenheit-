@@ -7,7 +7,10 @@ fenetre.geometry("1920x1080")
 
 #Config texte :
 label = Label(fenetre, text="Test Mousmousa", font=("Arial", 40))
+label = Entry(fenetre, font=("Arial", 10))
+#Afficher le texte ou le champ de texte : 
 label.pack(pady=350)
+
 #Barre de menus : 
 barre = Menu(fenetre)
 menu1 = Menu(barre, tearoff=0)
