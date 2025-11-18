@@ -17,3 +17,5 @@ menu1 = Menu(barre, tearoff=0)
 fenetre.mainloop()
 
 print("test github")
+
+ttt
